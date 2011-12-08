@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/java/com/gluszecki/iocc/factory
+END
+SampleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/java/com/gluszecki/iocc/factory/SampleDao.java
+END
+ConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/java/com/gluszecki/iocc/factory/ConnectionFactory.java
+END
+SampleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/java/com/gluszecki/iocc/factory/SampleDaoImpl.java
+END
+FactoryMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/java/com/gluszecki/iocc/factory/FactoryMethodTest.java
+END
+ConnectionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/java/com/gluszecki/iocc/factory/ConnectionFactoryImpl.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection
+END
+PropertyGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/PropertyGetter.java
+END
+NameResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/NameResolver.java
+END
+NameResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/NameResolverImpl.java
+END
+PropertyAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/PropertyAccessException.java
+END
+PropertySetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/PropertySetter.java
+END
+ScopeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/ScopeResolver.java
+END
+DirectFieldAccessPropertySetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/DirectFieldAccessPropertySetter.java
+END
+DirectFieldAccesPropertyGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/DirectFieldAccesPropertyGetter.java
+END
+ScopeResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/bijection/ScopeResolverImpl.java
+END

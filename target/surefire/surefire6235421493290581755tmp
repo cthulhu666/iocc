@@ -1,0 +1,5 @@
+#surefire
+#Thu Dec 08 12:11:03 CET 2011
+user.dir=/home/cthulhu/workspace/iocc
+localRepository=/home/cthulhu/.m2/repository
+basedir=/home/cthulhu/workspace/iocc

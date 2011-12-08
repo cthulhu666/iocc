@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/lookup
+END
+AbstractContextLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/lookup/AbstractContextLookup.java
+END
+ContextLookupFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/lookup/ContextLookupFactory.java
+END
+FactoryMethodContextLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/lookup/FactoryMethodContextLookup.java
+END
+ContextLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/lookup/ContextLookup.java
+END

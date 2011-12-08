@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/resources/fileFinderTest
+END
+file1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/resources/fileFinderTest/file1
+END
+file2
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/test/resources/fileFinderTest/file2
+END

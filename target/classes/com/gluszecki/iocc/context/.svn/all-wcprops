@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context
+END
+ConversationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/ConversationContext.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/Context.java
+END
+GlobalContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/GlobalContext.java
+END
+SessionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/SessionContext.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/Scope.java
+END
+BasicScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/BasicScope.java
+END
+ContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/ContextFactory.java
+END
+StatelessContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/StatelessContext.java
+END
+ThreadContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/eszope/!svn/ver/1009/old-stuff/iocc/trunk/src/main/java/com/gluszecki/iocc/context/ThreadContext.java
+END
